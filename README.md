@@ -119,4 +119,4 @@ Scenario: Add a product to cart
 
 ## 📄 License
 
-Nhat Pham (https://www.linkedin.com/in/nhattpam02/)
+Quang Pham (https://www.linkedin.com/in/quangpham555/)
